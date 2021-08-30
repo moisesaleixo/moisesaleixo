@@ -1,12 +1,13 @@
 ## Olá, Eu sou Moises Neto
 
-- 💻 I'm Front-End Developer!
-- 🏡 I'm from Brasil
-- 📚 I'm currently learning everything
-- 📤 2021 Goals: create a new project and find a new job
+- 💻 Tryng to become a Front-End developer
+- 🏡 I live in Brazil
+- 📚 Currently learning what i can about Front-End and mobile
+- 📤 2021 Goals: Create a new porjects and increase my hnowledge
 
-## About me
+## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px">
 
-[Linkedin](https://www.linkedin.com/in/moises-neto-538802217/)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/moises-neto-538802217/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/MoisesNeto1448)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/neto_moises48/)
 
- - Thanks for visiting.
+
