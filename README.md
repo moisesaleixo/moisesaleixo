@@ -1,9 +1,9 @@
 ## Hello, I am Moises Neto
 
-- 💻 Tryng to become a Front-End developer
-- 🏡 I live in Brazil
-- 📚 Currently learning what i can about Front-End and mobile
-- 📤 2021 Goals: Create a new porjects and increase my hnowledge
+- 💻 Tentando virar um programador Front-end sonhando com o Full-stack
+- 🏡 Moro em Pernambuco
+- 📚 Estudando JavaScript, HTML, CSS e tentando aprender desenvolvimento mobile
+- 📤 Sempre buscando conhecimento e fazendo projetos
 
  <div>
   <a href="https://github.com/rafaballerini">
