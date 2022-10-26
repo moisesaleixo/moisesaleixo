@@ -12,7 +12,7 @@
 </div>
 
 <div> 
-  ![Snake animation](https://github.com/moisesaleixo/moisesaleixo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/moisesaleixo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 ## About me 
