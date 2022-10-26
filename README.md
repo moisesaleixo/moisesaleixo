@@ -11,10 +11,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesaleixo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
 ## About me 
   
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/home?lang=pt)
